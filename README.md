@@ -14,9 +14,6 @@ Visual-Language Alignment**
 
 Kai Wu, Jingtao Wang, Cangxin Li, Qian Cheng, and Xinjian Chen (Member, IEEE).
 
-Status: manuscript in preparation for submission to *IEEE Transactions on
-Medical Imaging* (TMI); it has not yet been submitted, accepted, or published.
-
 ## Inference path
 
 ```text
