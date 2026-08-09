@@ -72,8 +72,14 @@ No editable package installation is required. The source-tree entry point adds
 
 Inference requires:
 
-1. A separately obtained Chinese-LLaMA-2-7B directory.
+1. The full [`hfl/chinese-llama-2-7b`](https://huggingface.co/hfl/chinese-llama-2-7b)
+   base-model directory, downloaded separately from Hugging Face.
 2. Both project checkpoint parts listed below.
+
+> **Important:** Complete inference cannot run with the project checkpoint
+> alone. This repository and its GitHub Release do not include
+> `hfl/chinese-llama-2-7b`; download the full model first and point
+> `MAM_LLAMA_MODEL` to its local directory.
 
 The raw training `checkpoint_best.pth` is not a drop-in replacement because it does not contain
 all frozen states needed by this standalone inference package.
