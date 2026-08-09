@@ -1,0 +1,22 @@
+{
+  "format": "mam-wisequery-report-release-parts",
+  "version": 1,
+  "part_count": 2,
+  "parts": [
+    {
+      "filename": "mam_wisequery_report_inference.pth.part-000",
+      "size_bytes": 1250000000,
+      "sha256": "fc7641a263f6072b446b06ca24abe85ad94bebf47369d08c488831ea8e252241"
+    },
+    {
+      "filename": "mam_wisequery_report_inference.pth.part-001",
+      "size_bytes": 1197917636,
+      "sha256": "c4a9541cb7d406eb28cb6d5344f2890afb03500cc49128a67af788848d859fd4"
+    }
+  ],
+  "assembled": {
+    "filename": "mam_wisequery_report_inference.pth",
+    "size_bytes": 2447917636,
+    "sha256": "65fe924f7fe72c8a552b316b4d6530f2ce2927b61b3510f13940fd241ccb1a30"
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "samples": [
+    {
+      "id": "sample_000",
+      "images": [
+        "images/sample_000_image_0.png",
+        "images/sample_000_image_1.png"
+      ],
+      "report": "神经上皮层浆液性浅脱离。RPE层局部裂隙样浅脱离。"
+    },
+    {
+      "id": "sample_001",
+      "images": [
+        "images/sample_001_image_0.png",
+        "images/sample_001_image_1.png"
+      ],
+      "report": "黄斑内板层裂孔。神经上皮层局部囊样改变。光感受器层变薄。椭圆体带大面积缺失。RPE层反射不连续。RPE层萎缩可见小隆起。脉络膜萎缩。"
+    },
+    {
+      "id": "sample_002",
+      "images": [
+        "images/sample_002_image_0.png",
+        "images/sample_002_image_1.png"
+      ],
+      "report": "黄斑孔基本愈合、于中心凹处可见组织小缺失。椭圆体带反射不连续。RPE层反射不均。RPE层可见小突起。"
+    },
+    {
+      "id": "sample_003",
+      "images": [
+        "images/sample_003_image_0.png",
+        "images/sample_003_image_1.png"
+      ],
+      "report": "视网膜脱离未累及黄斑区。RPE层局部可见小隆起。"
+    },
+    {
+      "id": "sample_004",
+      "images": [
+        "images/sample_004_image_0.png",
+        "images/sample_004_image_1.png"
+      ],
+      "report": "黄斑弥漫性水肿。黄斑前膜。"
+    },
+    {
+      "id": "sample_005",
+      "images": [
+        "images/sample_005_image_0.png",
+        "images/sample_005_image_1.png"
+      ],
+      "report": "RPE层局部可见小隆起。"
+    },
+    {
+      "id": "sample_006",
+      "images": [
+        "images/sample_006_image_0.png",
+        "images/sample_006_image_1.png"
+      ],
+      "report": "黄斑结构及厚度未见明显异常。"
+    },
+    {
+      "id": "sample_007",
+      "images": [
+        "images/sample_007_image_0.png",
+        "images/sample_007_image_1.png"
+      ],
+      "report": "黄斑结构未见明显异常。"
+    },
+    {
+      "id": "sample_008",
+      "images": [
+        "images/sample_008_image_0.png",
+        "images/sample_008_image_1.png"
+      ],
+      "report": "视网膜劈裂。光感受器层变薄。光感受器层反射不均。椭圆体带大面积缺失。视网膜变薄。RPE层萎缩、反射不均。RPE层可见小隆起。"
+    },
+    {
+      "id": "sample_009",
+      "images": [
+        "images/sample_009_image_0.png",
+        "images/sample_009_image_1.png"
+      ],
+      "report": "黄斑结构未见明显异常。"
+    },
+    {
+      "id": "sample_010",
+      "images": [
+        "images/sample_010_image_0.png",
+        "images/sample_010_image_1.png"
+      ],
+      "report": "神经上皮层浆液性浅脱离。RPE层可见裂隙样浅脱离。RPE层反射不均。"
+    },
+    {
+      "id": "sample_011",
+      "images": [
+        "images/sample_011_image_0.png",
+        "images/sample_011_image_1.png"
+      ],
+      "report": "颞侧椭圆体带反射连续性中断。颞侧局部神经上皮层及其下可见高反射团贯穿RPE层。颞侧视网膜局部变薄。RPE层反射连续性中断。颞侧RPE层局部可见高反射隆起。"
+    },
+    {
+      "id": "sample_012",
+      "images": [
+        "images/sample_012_image_0.png",
+        "images/sample_012_image_1.png"
+      ],
+      "report": "椭圆体带基本消失。视网膜贴附良好。视网膜局部萎缩变薄。RPE层局部缺失、可见多灶性隆起。脉络膜萎缩、缺失。"
+    },
+    {
+      "id": "sample_013",
+      "images": [
+        "images/sample_013_image_0.png",
+        "images/sample_013_image_1.png"
+      ],
+      "report": "黄斑弥漫性水肿伴渗出。椭圆体带局部缺失。下方神经上皮层局部浅脱离。下方神经上皮层浅层反射增强。RPE层反射不均。RPE层可见小隆起。"
+    },
+    {
+      "id": "sample_014",
+      "images": [
+        "images/sample_014_image_0.png",
+        "images/sample_014_image_1.png"
+      ],
+      "report": "黄斑结构未见明显异常。"
+    },
+    {
+      "id": "sample_015",
+      "images": [
+        "images/sample_015_image_0.png",
+        "images/sample_015_image_1.png"
+      ],
+      "report": "黄斑结构未见明显异常。"
+    },
+    {
+      "id": "sample_016",
+      "images": [
+        "images/sample_016_image_0.png",
+        "images/sample_016_image_1.png"
+      ],
+      "report": "黄斑结构未见明显异常。"
+    },
+    {
+      "id": "sample_017",
+      "images": [
+        "images/sample_017_image_0.png",
+        "images/sample_017_image_1.png"
+      ],
+      "report": "鼻侧局部神经上皮层水肿。内界膜反射不光滑。椭圆体带反射基本消失。视网膜贴附良好。视网膜部分变薄。中心凹处神经上皮层组织缺失。RPE层反射不均。RPE层可见高反射小隆起。"
+    },
+    {
+      "id": "sample_018",
+      "images": [
+        "images/sample_018_image_0.png",
+        "images/sample_018_image_1.png"
+      ],
+      "report": "光感受器层变薄。下方局部椭圆体带缺失。神经上皮层局部浅脱离。RPE层局部浅脱离其下呈不均匀中低反射信号。"
+    },
+    {
+      "id": "sample_019",
+      "images": [
+        "images/sample_019_image_0.png",
+        "images/sample_019_image_1.png"
+      ],
+      "report": "黄斑囊样水肿。鼻侧局部黄斑前膜。神经上皮层局部裂隙样浅脱离。"
+    },
+    {
+      "id": "sample_020",
+      "images": [
+        "images/sample_020_image_0.png",
+        "images/sample_020_image_1.png"
+      ],
+      "report": "黄斑孔“W”型愈合。椭圆体带局部缺失。视网膜贴附良好。RPE层反射不均。脉络膜萎缩。"
+    },
+    {
+      "id": "sample_021",
+      "images": [
+        "images/sample_021_image_0.png",
+        "images/sample_021_image_1.png"
+      ],
+      "report": "视网膜局部囊样水肿。局部黄斑前膜。"
+    },
+    {
+      "id": "sample_022",
+      "images": [
+        "images/sample_022_image_0.png",
+        "images/sample_022_image_1.png"
+      ],
+      "report": "黄斑结构未见明显异常。"
+    },
+    {
+      "id": "sample_023",
+      "images": [
+        "images/sample_023_image_0.png",
+        "images/sample_023_image_1.png"
+      ],
+      "report": "黄斑结构未见明显异常。"
+    },
+    {
+      "id": "sample_024",
+      "images": [
+        "images/sample_024_image_0.png",
+        "images/sample_024_image_1.png"
+      ],
+      "report": "余结构未见明显异常。椭圆体带反射不连续。局部脉络膜萎缩。"
+    },
+    {
+      "id": "sample_025",
+      "images": [
+        "images/sample_025_image_0.png",
+        "images/sample_025_image_1.png"
+      ],
+      "report": "神经上皮层可见散在高反射点、团。视网膜局部变薄。"
+    },
+    {
+      "id": "sample_026",
+      "images": [
+        "images/sample_026_image_0.png",
+        "images/sample_026_image_1.png"
+      ],
+      "report": "黄斑结构及厚度未见明显异常。"
+    },
+    {
+      "id": "sample_027",
+      "images": [
+        "images/sample_027_image_0.png",
+        "images/sample_027_image_1.png"
+      ],
+      "report": "下方局部黄斑前膜。RPE层反射不均。RPE层局部可见小隆起。"
+    },
+    {
+      "id": "sample_028",
+      "images": [
+        "images/sample_028_image_0.png",
+        "images/sample_028_image_1.png"
+      ],
+      "report": "黄斑囊样水肿。内界膜反射不光滑。椭圆体带反射不连续。神经上皮层可见高反射点、团。RPE层反射不均。RPE层可见小隆起。"
+    },
+    {
+      "id": "sample_029",
+      "images": [
+        "images/sample_029_image_0.png",
+        "images/sample_029_image_1.png"
+      ],
+      "report": "中心凹形态不规则。黄斑前膜。椭圆体带反射不连续。神经上皮层外层可见组织小缺失。"
+    },
+    {
+      "id": "sample_030",
+      "images": [
+        "images/sample_030_image_0.png",
+        "images/sample_030_image_1.png"
+      ],
+      "report": "神经上皮层浆液性浅脱离。RPE层局部小皱褶。"
+    },
+    {
+      "id": "sample_031",
+      "images": [
+        "images/sample_031_image_0.png",
+        "images/sample_031_image_1.png"
+      ],
+      "report": "黄斑弥漫性水肿。黄斑前膜。RPE层反射不均。RPE层可见小隆起。"
+    },
+    {
+      "id": "sample_032",
+      "images": [
+        "images/sample_032_image_0.png",
+        "images/sample_032_image_1.png"
+      ],
+      "report": "视网膜脱离并累及黄斑区颞下方，未累及中心凹。RPE层反射不均。"
+    },
+    {
+      "id": "sample_033",
+      "images": [
+        "images/sample_033_image_0.png",
+        "images/sample_033_image_1.png"
+      ],
+      "report": "神经上皮层局部浅脱离。RPE层反射不均。RPE层可见小隆起。"
+    },
+    {
+      "id": "sample_034",
+      "images": [
+        "images/sample_034_image_0.png",
+        "images/sample_034_image_1.png"
+      ],
+      "report": "神经上皮层水肿。神经上皮层脱离。"
+    },
+    {
+      "id": "sample_035",
+      "images": [
+        "images/sample_035_image_0.png",
+        "images/sample_035_image_1.png"
+      ],
+      "report": "RPE层反射不均。RPE层局部可见小隆起。"
+    },
+    {
+      "id": "sample_036",
+      "images": [
+        "images/sample_036_image_0.png",
+        "images/sample_036_image_1.png"
+      ],
+      "report": "黄斑结构及厚度未见明显异常。RPE层反射不均。脉络膜萎缩。"
+    },
+    {
+      "id": "sample_037",
+      "images": [
+        "images/sample_037_image_0.png",
+        "images/sample_037_image_1.png"
+      ],
+      "report": "黄斑结构基本未见明显异常。"
+    },
+    {
+      "id": "sample_038",
+      "images": [
+        "images/sample_038_image_0.png",
+        "images/sample_038_image_1.png"
+      ],
+      "report": "黄斑孔呈“W型”愈合。椭圆体带局部缺失。视网膜贴附良好。视网膜变薄。RPE层反射不均。"
+    },
+    {
+      "id": "sample_039",
+      "images": [
+        "images/sample_039_image_0.png",
+        "images/sample_039_image_1.png"
+      ],
+      "report": "光感受器外节层不明显。视网膜变薄。"
+    },
+    {
+      "id": "sample_040",
+      "images": [
+        "images/sample_040_image_0.png",
+        "images/sample_040_image_1.png"
+      ],
+      "report": "黄斑囊样水肿。局部黄斑前膜。神经上皮层局部浅脱离。神经上皮层可见散在高反射点、团。RPE层反射不均。RPE层可见小隆起。"
+    },
+    {
+      "id": "sample_041",
+      "images": [
+        "images/sample_041_image_0.png",
+        "images/sample_041_image_1.png"
+      ],
+      "report": "光感受器层局部变薄。椭圆体带局部缺失。神经上皮层及其下可见高反射团贯穿RPE层。局部视网膜隆起。RPE层浅脱离。RPE层反射连续性中断。"
+    },
+    {
+      "id": "sample_042",
+      "images": [
+        "images/sample_042_image_0.png",
+        "images/sample_042_image_1.png"
+      ],
+      "report": "视网膜增厚。"
+    },
+    {
+      "id": "sample_043",
+      "images": [
+        "images/sample_043_image_0.png",
+        "images/sample_043_image_1.png"
+      ],
+      "report": "神经上皮层局部水肿。椭圆体带反射连续性中断。神经上皮层局部可疑缝隙样浅脱离。RPE层反射不均。RPE层局部皱褶。"
+    },
+    {
+      "id": "sample_044",
+      "images": [
+        "images/sample_044_image_0.png",
+        "images/sample_044_image_1.png"
+      ],
+      "report": "视网膜变薄。"
+    },
+    {
+      "id": "sample_045",
+      "images": [
+        "images/sample_045_image_0.png",
+        "images/sample_045_image_1.png"
+      ],
+      "report": "黄斑轻度水肿。黄斑前膜。"
+    },
+    {
+      "id": "sample_046",
+      "images": [
+        "images/sample_046_image_0.png",
+        "images/sample_046_image_1.png"
+      ],
+      "report": "视网膜局部变薄。"
+    },
+    {
+      "id": "sample_047",
+      "images": [
+        "images/sample_047_image_0.png",
+        "images/sample_047_image_1.png"
+      ],
+      "report": "神经上皮层可见少量高反射点。视网膜局部变薄。"
+    },
+    {
+      "id": "sample_048",
+      "images": [
+        "images/sample_048_image_0.png",
+        "images/sample_048_image_1.png"
+      ],
+      "report": "下方光感受器层局部变薄。椭圆体带局部缺失。下方局部视网膜变薄。RPE层反射不均。RPE层可见小隆起。"
+    },
+    {
+      "id": "sample_049",
+      "images": [
+        "images/sample_049_image_0.png",
+        "images/sample_049_image_1.png"
+      ],
+      "report": "视网膜劈裂。视网膜浅脱离。视网膜局部萎缩变薄。RPE层反射不连续。脉络膜萎缩。"
+    }
+  ]
+}

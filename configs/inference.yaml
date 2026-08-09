@@ -1,0 +1,23 @@
+# 默认通过分片清单直接读取两个发布权重分片，不在磁盘生成完整 checkpoint。
+model:
+  release_parts_manifest: "weights/release_parts.json"
+  llama_model: "${MAM_LLAMA_MODEL}"
+  qformer_config_dir: "src/mam_wisequery_report/assets/qformer_config"
+
+preprocess:
+  image_size: 224
+  mean: [0.48145466, 0.4578275, 0.40821073]
+  std: [0.26862954, 0.26130258, 0.27577711]
+
+generation:
+  prompt: "<Img><ImageHere></Img> 请详细描述这张OCT图像。"
+  num_beams: 1
+  max_new_tokens: 120
+  min_length: 1
+  top_p: 0.9
+  temperature: 1.0
+  do_sample: false
+
+runtime:
+  device: "cuda:0"
+  seed: 42

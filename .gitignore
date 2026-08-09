@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+outputs/
+results/
+*.log
+verification_*.json
+
+# 将精简后的 data/ 明确纳入公开仓库，保证 50 例匿名双图样本不会被旧忽略规则漏掉。
+!data/
+!data/**
+
+# 保留合并前的扁平实现供本地审计，但防止它与 src/ 下的权威实现一起误上传造成双实现分叉。
+/config.py
+/dataset.py
+/inference.py
+/model.py
+/models/
+
+# Large weights are hosted outside ordinary Git history.
+weights/*.pth
+weights/*.pt
+weights/*.bin
+weights/*.safetensors
+# 两个 checkpoint 分片仅作为 GitHub Release 资产上传，不进入普通 Git 历史。
+weights/*.pth.part-*
+!weights/README.md
